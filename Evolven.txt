@@ -4,3 +4,5 @@ Scope is Entire IT infra
 DHCP
 DNS
 Exchange
+Paloalto
+Cisco Switch
