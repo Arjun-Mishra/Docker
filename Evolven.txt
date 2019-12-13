@@ -6,5 +6,8 @@ DNS
 Exchange
 Paloalto
 Cisco Switch
+Windows
+Linux
+
 
 Signoff
